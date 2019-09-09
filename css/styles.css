@@ -334,4 +334,10 @@ h1 {
 		width: 60%;
 	}
 }
+.fa:hover{
+    color:rgb(21, 86, 139);
+    font-size: 1.1em;
+    transition: 1s;
+    transform: rotateY,(360deg);
+}
 
