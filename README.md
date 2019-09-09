@@ -8,7 +8,7 @@ This is a simple game built to test a users memory. There's a deck of cards with
 Match cards in less time with less moves.
 
 ## How to Play
-Load this link in your browser
+Load this link in your browser : https://robinhooda.github.io/Javascript-Memory-Game/
 
 ## Instructions
 * Click on a card
