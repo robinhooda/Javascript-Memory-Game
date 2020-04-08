@@ -1,7 +1,7 @@
 # Javascript-Memory-Game
 
 ## What is the Memory Game
-This is a simple game built to test a users memory. There's a deck of cards with different icons. 
+This is a web Application game which is built to test a users memory using HTML5, CSS3, & Javascript. There's a deck of cards with different icons.
 ![snippet](img/snippet.png)
 
 ## Challenge
